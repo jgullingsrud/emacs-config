@@ -2,17 +2,20 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/justin/" . "git/")
  ("/Users/justin/git/gerrit/" . "rex/")
  ("/Users/justin/git/" . "gerrit/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/justin/"
  "/Users/justin/git/gerrit/rex/bin/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ ".emacs"
  "rex-run.py"
 )
 
